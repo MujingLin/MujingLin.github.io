@@ -1,12 +1,12 @@
-title: Hanlin Cai
+title: Mujing Lin
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://mujinglin.github.io
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
+  name: Mujing Lin
   avatar: hanlin.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: hanlin.cai@ieee.org
@@ -28,7 +28,8 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+
+google_verify: "05SdUUjLm2DSAwPhEwY4nVJHaYCsdgDguorSLfF4fhM"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -38,8 +39,8 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
+  - title: Media
+    url: /media/
   - title: Awards
     url: /awards/
   - title: Hobbies
