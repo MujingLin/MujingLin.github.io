@@ -4,15 +4,12 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic"> -->
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+I am Lin Mujing（林沐菁）, a fourth-year student majoring in Broadcasting and Television Directing at Nanjing University of the Arts.I have a deep interest in using creative media to tell stories, which has led me to participate in various creative imaging work, including internships and volunteer work. During my undergraduate years, I served as the head of the Enrollment and Promotion Volunteer Association, where I used video to document various campus activities and contributed to promoting NUA. I learned a lot about leadership and how to plan to attract audiences. The meaning of image is embodied in practice.At the same time, I also enjoy variety shows and worked as an executive director for “Chasing Stardom Dream”. 
+My current focus is on AI-assisted visual creation. I have worked on two AI-driven projects. I have a strong interest in AI-driven creativity and its applications in filmmaking. I hope to continue learning more about this field.
 
-I am Lin Mujing（林沐菁）, a fourth-year student majoring in Broadcasting and Television Directing at Nanjing University of the Arts, where I honed skills in directing, visual design, and transmedia storytelling.I am deeply passionate about using creative media to tell stories, which has led me to participate in various production and creative roles, including internships and volunteer work. 
-
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me. Thank you!</font>**
-
----
+<!-- ---
 
 ## Research Interests
 
@@ -25,7 +22,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 ---
 
-<!-- ## News and Updates
+## News and Updates
 
 - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
 - **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
@@ -33,5 +30,3 @@ My current research focuses on practical problems that artificial intelligence f
 - **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
 - **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
 - **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò. -->
-
-[![Visit tracker](https://mapmyvisitors.com/map.png?d=1c0dMdLUfbqrxP_GxHTp5qIY8jNAMlOjM1Qy1zxXSzo){:width="0"}](https://mapmyvisitors.com/web/1bxaq)
