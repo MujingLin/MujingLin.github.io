@@ -4,8 +4,6 @@ permalink: /media/index.html
 title: Media
 ---
 
-> (†: equal contribution, ~: corresponding author)
-
 ## ShangRabbit Runs to the Moon: An Experiment of AI Intervening in Traditional Culture
 
 <iframe width="420" height="315"
