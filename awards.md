@@ -8,22 +8,15 @@ title: Awards
 
 ## Scholarships
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- Nov 2024：Nanjing University of the Arts Scholarship - First Prize 
+- Nov 2023：Nanjing University of the Arts Scholarship - Third Prize 
+- Nov 2022：Nanjing University of the Arts Scholarship - Individual scholarship 
 
 ## Competitions
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+- Sept 2024：National Outstanding Award in the 16th National Advertising Art Design Competition  
+- Aug 2024：First Prize in Jiangsu in the 16th National Advertising Art Design Competition
+- May 2024: Second Prize in the 14th Chinese National Undergraduate "Innovation, Creativity and Entrepreneurship" Challenge of Nanjing University of the Arts
+- Dec 2023：Excellence Award in Creative Planet Academy Award : 2023 Autumn (Top 5%)
 
 <br>

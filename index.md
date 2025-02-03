@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic"> -->
+<img src="https://mujinglin.github.io/mujing.jpg" class="floatpic">
 
 I am Lin Mujing（林沐菁）, a fourth-year student majoring in Broadcasting and Television Directing at Nanjing University of the Arts.I have a deep interest in using creative media to tell stories, which has led me to participate in various creative imaging work, including internships and volunteer work. During my undergraduate years, I served as the head of the Enrollment and Promotion Volunteer Association, where I used video to document various campus activities and contributed to promoting NUA. I learned a lot about leadership and how to plan to attract audiences. The meaning of image is embodied in practice.At the same time, I also enjoy variety shows and worked as an executive director for “Chasing Stardom Dream”. 
 My current focus is on AI-assisted visual creation. I have worked on two AI-driven projects. I have a strong interest in AI-driven creativity and its applications in filmmaking. I hope to continue learning more about this field.
