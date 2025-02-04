@@ -11,13 +11,9 @@ src="https://www.youtube.com/embed/4xKM9TjWZW0">
 </iframe>
 <br>
 
-![exhibition](images/shangrabbit_exhibition_pic/exhibition_1.jpg)
-![exhibition](images/shangrabbit_exhibition_pic/exhibition_2.jpg)
-![exhibition](images/shangrabbit_exhibition_pic/exhibition_3.jpg)
-![exhibition](images/shangrabbit_exhibition_pic/exhibition_4.jpg)
-![exhibition](images/shangrabbit_exhibition_pic/exhibition_5.jpg)
-![exhibition](images/shangrabbit_exhibition_pic/exhibition_6.jpg)
-
+<div style="text-align: center;">
+    <img src="images/shangrabbit_exhibition_pic/shangrabbit1.jpeg" alt="exhibition">
+</div>
 
 This one-minute teaser is created for the exhibition project "ShangRabbit Runs to the Moon: An Experiment of AI Intervening in Traditional Culture" at the Art Museum of Nanjing University of the Arts (AMNUA).
 
