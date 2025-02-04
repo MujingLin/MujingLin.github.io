@@ -12,8 +12,11 @@ src="https://www.youtube.com/embed/4xKM9TjWZW0">
 <br>
 
 <div style="text-align: center;">
-    <img src="images/shangrabbit_exhibition_pic/shangrabbit1.jpeg" alt="exhibition">
+    <img src="https://mujinglin.github.io/images/shangrabbit_exhibition_pic/shangrabbit1.jpeg" alt="exhibition">
+    <br>
+    <img src="https://mujinglin.github.io/images/shangrabbit_exhibition_pic/photos.jpg" alt="photos">
 </div>
+<br>
 
 This one-minute teaser is created for the exhibition project "ShangRabbit Runs to the Moon: An Experiment of AI Intervening in Traditional Culture" at the Art Museum of Nanjing University of the Arts (AMNUA).
 
@@ -29,6 +32,7 @@ This trailer is created for the exhibition project "ShangRabbit Runs to the Moon
 This trailer combines animation and interviews to introduce the exhibition’s conceptual origins, creative process, and final installation presentation. Additionally, this video, which I shot and edited, introduces how Midjourney can be used to reimagine creative possibilities.
 
 ## Chernobyl: Application of AIGC Technology in Short Film Production
+
 <iframe width="400" height="225"
 src="https://www.youtube.com/embed/M9klUwCL6Ic">
 </iframe>
@@ -53,11 +57,10 @@ src="https://www.youtube.com/embed/AQefXRU5-Ko">
 </iframe>
 <br>
 
-![china stories](images/ChinaStories/Photocards1.png)
-![china stories](images/ChinaStories/Photocards2.png)
-![china stories](images/ChinaStories/Meme.PNG)
-![china stories](images/ChinaStories/Mystery.jpg)
-![china stories](images/ChinaStories/Presentation.PNG)
+<div style="text-align: center;">
+    <img src="https://mujinglin.github.io/images/ChinaStories/ChinaStories.jpg" alt="cnstories">
+</div>
+<br>
 
 Cyberlantern 2054, part of the Telling China’s Stories series, is presented in three episodes. In the story, Grandma, a lantern maker in 2054, relies on memory chips to make complicated lanterns. However, when an accident causes her to lose the chip and the guidance of the program, she must rely on her creativity—ultimately creating a lantern infused with deeper humanity.
 
@@ -88,10 +91,12 @@ src="https://www.youtube.com/embed/_-NADaf5hCU">
 </iframe>
 <br>
 
-![caption](images/Meta_Stone_pic/metastone_1.jpg)
-![caption](images/Meta_Stone_pic/metastone_2.jpg)
-![caption](images/Meta_Stone_pic/metastone_3.jpg)
-![caption](images/Meta_Stone_pic/metastone_4.jpg)
+<div style="text-align: center;">
+    <img src="https://mujinglin.github.io/images/Meta_Stone_pic/poster.jpeg" alt="poster">
+    <br>
+    <img src="https://mujinglin.github.io/images/Meta_Stone_pic/media_report.jpg" alt="media report">
+</div>
+<br>
 
 
 These teasers combine aerial shots and on-site filming to provide an immersive experience, allowing viewers to explore the true appearance of the Yangshan Stele. The sheer size of the stele has made its transportation a mystery, and now it stands alone atop Yangshan Mountain in Nanjing, waiting for future generations to offer new hypotheses.
