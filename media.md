@@ -170,6 +170,7 @@ This advertisement was awarded the National Excellence Award at the 2023 Autumn 
 Drawing inspiration from the product’s name, we combined it with flowers to craft a story centred around young women in their twenties. Through this ad, we hope to inspire women to embrace their growth and remind them that, women as flowers, they are their own best florists.
 
 ## 金陵小郎中太极宣传片 Tai Chi promotional video
+
 <iframe width="400" height="225"
 src="https://www.youtube.com/embed/2_4S53_Xhis">
 </iframe>
@@ -183,11 +184,11 @@ I acted as Editor.
 
 <br>
 
-[南艺，我们九月相见！](https://mp.weixin.qq.com/s/ZEZE7RwNCT3HxaolMriz5g)
+Wechat Post: [南艺，我们九月相见！](https://mp.weixin.qq.com/s/ZEZE7RwNCT3HxaolMriz5g)
 
 This is a promotional video created by the Admissions Publicity Association of Nanjing University of the Arts for the 2024 college entrance examination. In this activity, I was not only a volunteer but also responsible for photography and video filming.
 
-[Hi，新南艺人！](https://mp.weixin.qq.com/s/jumuQkqUwmByYLXj3W_jww)
+Wechat Post: [Hi，新南艺人！](https://mp.weixin.qq.com/s/jumuQkqUwmByYLXj3W_jww)
 
 This is a project I planned to introduce the excellence of Nanjing University of the Arts through the voice of a student.
 <br>
