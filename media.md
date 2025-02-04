@@ -109,6 +109,7 @@ In the Meta Stone project, I served as the video executive. During the early sta
 src="https://www.youtube.com/embed/bqQIumnzMZQ?si=Rlbv7dzK13DoW4N6">
 </iframe>
 <br>
+
 Served as Executive Director
 
   <br>
@@ -117,7 +118,7 @@ Served as Executive Director
 
 ## Other Short film
 
-## 《又是奶奶的快递》Love Package
+## 「又是奶奶的快递」 Love Package
 
 <iframe width="400" height="225"
 src="https://www.youtube.com/embed/YdLmTJohPfs">
@@ -128,7 +129,7 @@ In January 2024, I collaborated with two other students to create this short fil
 
 This short film highlights the current trend of online shopping, focusing on an elderly woman who enjoys bargain hunting. The story revolves around the relationship between a grandmother and her granddaughter, with the granddaughter’s attempts to stop her grandma’s shopping habits adding comedic elements. Ultimately, the film aims to convey that love cannot be measured by money. For every “bargain-loving” grandma, we should offer more time and companionship.
 
-## 《王喆特荣耀》
+## 「王喆特荣耀」
 
 <iframe width="400" height="225"
 src="https://www.youtube.com/embed/eVfFEJ6tMw8">
@@ -139,7 +140,7 @@ This is a short film shot in November 2024. I served as the Production Designer.
 
 This short film follows Wang Zhe, a man who once faced career failure in his youth but mysteriously travels back 20 years to meet his younger self. As he helps his childhood self win a singing competition, he also finds the courage to pursue his passion again.
 
-## '鹤梦' MV
+## 「鹤梦」 MV
 
 <iframe width="400" height="225"
 src="https://www.youtube.com/embed/JaK8N3YWB5E">
@@ -148,7 +149,7 @@ src="https://www.youtube.com/embed/JaK8N3YWB5E">
 
 This is a music video I made for the original song Crane Dream in June 2023, during my sophomore year. The song is inspired by the MV director's secret love story from high school. To capture those memories, we returned to the high school where the story began, recreating the bittersweet moments of youth. In this project, I acted as Editor and Best Boy.
 
-## 《格格网事》 The Story of Wang
+## 「格格网事」 The Story of Wang
 
 <iframe width="400" height="225"
 src="https://www.youtube.com/embed/b3MvDCn80lA">
@@ -158,7 +159,7 @@ src="https://www.youtube.com/embed/b3MvDCn80lA">
 This is a documentary made in 2023. During COVID-19, grid workers became the main force for the Chinese government to implement community governance. This documentary filmed a primary-level grid worker in a village in the Qixia district, Nanjing, and recorded her daily routine of maintaining social stability in the countryside.
 I was responsible for concept content and cinematography.
 
-## AD 《最好的花匠》 The Best Florists
+## AD 「最好的花匠」 The Best Florists
 <iframe width="400" height="225"
 src="https://www.youtube.com/embed/AZ6p15-vgYU">
 </iframe>
@@ -180,11 +181,11 @@ I acted as Editor.
 
 ## Students Societies
 
-[text](https://mp.weixin.qq.com/s/ZEZE7RwNCT3HxaolMriz5g)
+[南艺，我们九月相见！](https://mp.weixin.qq.com/s/ZEZE7RwNCT3HxaolMriz5g)
 
 This is a promotional video created by the Admissions Publicity Association of Nanjing University of the Arts for the 2024 college entrance examination. In this activity, I was not only a volunteer but also responsible for photography and video filming.
 
-[text](https://mp.weixin.qq.com/s/jumuQkqUwmByYLXj3W_jww)
+[Hi，新南艺人！](https://mp.weixin.qq.com/s/jumuQkqUwmByYLXj3W_jww)
 
 This is a project I planned to introduce the excellence of Nanjing University of the Arts through the voice of a student.
 <br>
