@@ -8,6 +8,26 @@ title: Compass
 
 Like most directing students, I am really keen on photography, including mirrorless camera, film, polaroid. Unlike landscape photography, I prefer to use photos to record my current mood. The moments recorded in photographs are vivid. Carrying a variety of shooting equipment has become a must for me.
 
+## Shooting Short Films as coursework
+
+![Shooting Films](./images/compass/WechatIMG1391.webp)
+
+## July 2023 Network Drama
+
+![Network Drama2](./images/compass/WechatIMG1394.webp)
+
+## Acted as Set Decorator
+
+![Network Drama](./images/compass/WechatIMG1395.webp)
+
+## March 2024-June 2024 variety show Chasing 
+
+![Show1](./images/compass/WechatIMG1393.webp)
+Acted as Executive Director 
+
+![Show2](./images/compass/WechatIMG1392.webp)
+with Zhao Hao 赵浩 (Director)
+
 <!-- ## Swimming & Surfing
 
 <div class="third">
