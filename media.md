@@ -149,6 +149,15 @@ src="https://www.youtube.com/embed/JaK8N3YWB5E">
 
 This is a music video I made for the original song Crane Dream in June 2023, during my sophomore year. The song is inspired by the MV director's secret love story from high school. To capture those memories, we returned to the high school where the story began, recreating the bittersweet moments of youth. In this project, I acted as Editor and Best Boy.
 
+## Documentary Film: 救“宠”恤“欢”
+
+<iframe width="400" height="225"
+src="https://www.youtube.com/embed/vsQYZ3BF2oA">
+</iframe>
+<br>
+
+This documentary was filmed in June 2023. This documentary follows a Nanjing animal rescue organisation, Hanzi, which rescues distressed pets. We document Huanzi's rescues and the nearly 100 puppies he feeds and record this man with a soft heart beneath his rugged exterior.
+
 ## 「格格网事」 The Story of Wang
 
 <iframe width="400" height="225"
