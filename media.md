@@ -169,6 +169,28 @@ This advertisement was awarded the National Excellence Award at the 2023 Autumn 
 
 Drawing inspiration from the product’s name, we combined it with flowers to craft a story centred around young women in their twenties. Through this ad, we hope to inspire women to embrace their growth and remind them that, women as flowers, they are their own best florists.
 
+## 窗韵苏州 Suzhou Garden Science Film
+
+<iframe width="400" height="225"
+src="https://www.youtube.com/embed/IXkEUwji7II">
+</iframe>
+<br>
+
+This is a popular science film about Suzhou gardens, in which we are introduced to the different features of windows in Suzhou gardens.
+
+I acted as the editor.
+
+## “至味金陵” Original TV Channel Promotional Video: 金陵食客行
+
+<iframe width="400" height="225"
+src="https://www.youtube.com/embed/1Xy8C8oJfZo">
+</iframe>
+<br>
+
+This is a promotional video for the original channel ‘Taste of Jinling’, which focuses on Nanjing cuisine.
+
+I acted as director.
+
 ## 金陵小郎中太极宣传片 Tai Chi promotional video
 
 <iframe width="400" height="225"
