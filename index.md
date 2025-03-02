@@ -9,7 +9,8 @@ layout: page
 I am Lin Mujing（林沐菁）, a fourth-year student majoring in Broadcasting and Television Directing at Nanjing University of the Arts. I have a deep interest in using creative media to tell stories, which has led me to participate in various creative imaging work, including internships and volunteer work. During my undergraduate years, I served as the head of the Enrollment and Promotion Volunteer Association, where I used video to document various campus activities and contributed to promoting NUA. I learned a lot about leadership and how to plan to attract audiences. The meaning of the image is embodied in practice. At the same time, I also enjoy variety shows and worked as an executive director for “Chasing Stardom Dream”. 
 My current focus is on AI-assisted visual creation. I have worked on two AI-driven projects. I have a strong interest in AI-driven creativity and its applications in filmmaking. I hope to continue learning more about this field.
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=200&t=n&d=2xFTgkvCUxGRl5QkxkFrsDZSRsGncfw3udUTq3AGBvg'></script>
+<a href="https://mapmyvisitors.com/web/1bxj4"><img src="https://mapmyvisitors.com/map.png?d=2xFTgkvCUxGRl5QkxkFrsDZSRsGncfw3udUTq3AGBvg&cl=ffffff" style="width:0%"/></a>
+<a href="https://clustrmaps.com/site/1c4nl"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=CM23PSj5udQedz4kU_mLgdBZ9ixB_rFGQ5AI6KR24Mk&cl=ffffff" style="width:0%"/></a>
 
 <!-- ---
 
@@ -25,7 +26,7 @@ My current research focuses on practical problems that artificial intelligence f
 ---
 
 ## News and Updates
-
+1
 - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
 - **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
 - **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
