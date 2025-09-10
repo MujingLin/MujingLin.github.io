@@ -6,7 +6,13 @@ layout: page
 
 <img src="https://mujinglin.github.io/images/mujing.jpg" class="floatpic">
 
-I am Lin Mujing（林沐菁）, now a student in MAAMC (HKUST). I graduated with a major in Broadcasting and Television Directing at Nanjing University of the Arts (2025). I have a deep interest in using creative media to tell stories, which has led me to participate in various creative imaging work, including internships and volunteer work. During my undergraduate years, I served as the head of the Enrollment and Promotion Volunteer Association, where I used video to document various campus activities and contributed to promoting NUA. I learned a lot about leadership and how to plan to attract audiences. The meaning of the image is embodied in practice. At the same time, I also enjoy variety shows and worked as an executive director for “Chasing Stardom Dream”. My current focus is on AI-assisted visual creation. I have worked on two AI-driven projects. I have a strong interest in AI-driven creativity and its applications in filmmaking. I hope to continue learning more about this field.
+I am Lin Mujing (林沐菁), currently pursuing an MA in Arts and Machine Creativity at HKUST. I graduated from Nanjing University of the Arts in Broadcasting and Television Directing (2025).
+
+My research interests focus on AI-assisted artistic creation, particularly short films, and AI-driven automation in video editing workflows. I am passionate about exploring how generative and automated tools can enhance storytelling efficiency and expand creative possibilities in filmmaking.
+
+Previously, I directed and produced promotional films, led student media initiatives, and worked as an executive director for variety shows, gaining hands-on experience in planning, production, and audience engagement. More recently, I have been experimenting with AI in visual projects, combining narrative, aesthetics, and technology to push the boundaries of creative media.
+
+I am eager to keep building projects at the intersection of art, storytelling, and intelligent systems.
 
 <a href="https://mapmyvisitors.com/web/1bxj4"><img src="https://mapmyvisitors.com/map.png?d=2xFTgkvCUxGRl5QkxkFrsDZSRsGncfw3udUTq3AGBvg&cl=ffffff" style="width:0%"/></a>
 <a href="https://clustrmaps.com/site/1c4nl"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=CM23PSj5udQedz4kU_mLgdBZ9ixB_rFGQ5AI6KR24Mk&cl=ffffff" style="width:0%"/></a>
