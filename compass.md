@@ -23,7 +23,9 @@ Like most directing students, I am really keen on photography, including mirrorl
 ## March 2024-June 2024 variety show Chasing 
 
 ![Show1](./images/compass/WechatIMG1393.webp)
-Acted as Executive Director 
+Acted as Executive Director
+
+<br>
 
 ![Show2](./images/compass/WechatIMG1392.webp)
 with Zhao Hao 赵浩 (Director)
