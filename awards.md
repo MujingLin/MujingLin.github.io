@@ -8,7 +8,7 @@ title: Awards
 
 ## Scholarships
 
-- Jun 2025: Outstanding Graduate of Nanjing University of the Arts 
+- Jun 2025: Outstanding Graduate of Nanjing University of the Arts
 - Nov 2024：Nanjing University of the Arts Scholarship - First Prize 
 - Nov 2023：Nanjing University of the Arts Scholarship - Third Prize 
 - Nov 2022：Nanjing University of the Arts Scholarship - Individual scholarship 
