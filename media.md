@@ -10,7 +10,7 @@ src="https://www.youtube.com/embed/_GR9wksGBss">
 </iframe>
 <br>
 
-“WE & US” is Mujing Lin’s 2021 graduation project in Broadcasting and Television Directing at Nanjing University of the Arts. The story plays out like a game; characters complete missions by collecting “happiness points” This setup reflects real pressures Gen Z faces, from beauty standards to social media stress to job competition.
+“WE & US” is Mujing Lin’s 2025 graduation project in Broadcasting and Television Directing at Nanjing University of the Arts. The story plays out like a game; characters complete missions by collecting “happiness points” This setup reflects real pressures Gen Z faces, from beauty standards to social media stress to job competition.
 
 Told as a comedy, the story, by blending humour, game-like tasks, and emotional choices, suggests that the clumsy, sincere, and even silly sides of us—often dismissed as useless—might actually be our best defence against anxiety.
 
