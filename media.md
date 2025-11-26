@@ -3,6 +3,30 @@ layout: page
 permalink: /media/index.html
 title: Media
 ---
+## Animals, Inc.
+
+<iframe width="400" height="225"
+src="https://www.youtube.com/embed/x75cR9jt9t0">
+</iframe>
+<br>
+
+Animals, Inc. is an AI-generated animated short film that uses anthropomorphic animal characters to critique and reflect on the absurdity and pressure of modern corporate culture. Inspired by the allegorical tradition of George Orwell’s “Animal Farm”, the film reimagines the workplace as a surreal “farm,” where each animal symbolizes a distinct human archetype and the social dynamics of corporate life.
+
+Created under the supervision of Professor Anyi Rao, the project explores the intersection of AI and animation storytelling. Mujing Lin was mainly responsible for video generation and production of the latter half of the short film, contributing to its visual narrative and overall post-production flow.
+
+## 海与桥 Sea and Bridge
+
+<iframe width="400" height="225"
+src="https://www.youtube.com/embed/3Okqg504nxQ">
+</iframe>
+<br>
+
+This AI-generated short film commemorates the life and legacy of Professor Woo Chia-wei, the founding president of The Hong Kong University of Science and Technology (HKUST), and celebrates the university’s anniversary. Centered on the legendary “Founding Miracle” (1988–1991), the film recreates the vision and determination that enabled President Woo and his team to establish a world-class research university within just three years.
+
+Created as the AMCC5140 course ( Supervisor: Anyi Rao) project, the 5-minute work integrates storytelling, AI video generation, and cinematic editing.
+
+Mujing Lin was mainly responsible for scriptwriting, the video generation of Part IV (University Construction) and Part V (HKUST After Completion), as well as the final editing and creative direction.
+
 ## 00的我们 (WE & US)
 
 <iframe width="400" height="225"
