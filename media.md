@@ -6,7 +6,7 @@ title: Media
 ## 烬舟渡 ASH BOAT
 
 <iframe width="400" height="225"
-src="https://www.youtube.com/embed/uT0EiNpjzT8">
+src="https://www.youtube.com/embed/Lqvp0ZgqPOQ">
 </iframe>
 <br>
 
@@ -16,10 +16,12 @@ In a future world where AI can accompany humans but cannot truly feel emotion, a
 
 Supported by HKUST Arts and Machine Creativity (AMC) program and sponsored by TapNow, this project explores AI-driven visual storytelling through an integrated generative workflow. The production primarily utilized MidJourney and Nanobanana 2.0 for image generation, Kling 3.0 for video generation. Mujing Lin was mainly responsible for the visual design of the project, including the character development of Helen, prop direction, as well as the generation of key images and video sequences, shaping the film’s overall aesthetic and visual coherence.
 
+Due to screening restrictions from film festivals and international competitions, the link to the full version (23 minutes) will be updated at a later time.
+
 ## Animals, Inc.
 
 <iframe width="400" height="225"
-src="https://www.youtube.com/embed/x75cR9jt9t0">
+src="https://www.youtube.com/embed/yNNVxn4bcd4">
 </iframe>
 <br>
 
