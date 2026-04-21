@@ -15,12 +15,11 @@ Like most directing students, I am really keen on photography, including mirrorl
 <br>
 
 ![HACKATHON2](./images/compass/AMC Film HACKATHON.webp)
-Acted as EXECUTIVE CHAIR
+Acted as Executive Chair
 
 ## December 2025 SIGGRAPH ASIA STTUDENT VOLUNTEER
 
 ![SIGGRAPH SVP](./images/compass/SIGGRAPH SVP.webp)
-
 Honor to be a part of the 2025 SVP member
 
 ## Shooting Short Films as coursework
