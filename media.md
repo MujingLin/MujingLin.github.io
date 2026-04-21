@@ -3,6 +3,20 @@ layout: page
 permalink: /media/index.html
 title: Media
 ---
+## Unseen Script
+
+<iframe width="400" height="225"
+src="https://www.youtube.com/embed/ceTmc52ua9E">
+</iframe>
+<br>
+
+Unseen Script is about the feeling that our lives are being written by someone else. We live in a world of constant visibility where every rumor, every look, and every digital footprint turns into a script we never signed up for. It’s like being on a stage where the audience has already decided who you are before you even open your mouth.
+
+The film follows a girl trapped under the weight of a thousand eyes. These eyes don’t just watch her; they control her. Her every move is being monitored, interpreted, and eventually rewritten by the collective gaze. As she loses her grip on her own story, she’s forced to face a hard choice: Does she let herself be consumed by this version of "her," does she try to break the script, or is there a new way to exist when you can never truly be alone?
+
+This film was nominated for Best Music Video at the 2026 GLOBAL AI FILM HACK @ MIT.
+
+
 ## 烬舟渡 ASH BOAT
 
 <iframe width="400" height="225"

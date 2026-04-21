@@ -8,6 +8,21 @@ title: Compass
 
 Like most directing students, I am really keen on photography, including mirrorless camera, film, polaroid. Unlike landscape photography, I prefer to use photos to record my current mood. The moments recorded in photographs are vivid. Carrying a variety of shooting equipment has become a must for me.
 
+## March 2026 HKUST AI FILM HACKATHON
+
+![HACKATHON1](./images/compass/AIFILMHACK.webp)
+
+<br>
+
+![HACKATHON2](./images/compass/AMC Film HACKATHON.webp)
+Acted as EXECUTIVE CHAIR
+
+## December 2025 SIGGRAPH ASIA STTUDENT VOLUNTEER
+
+![SIGGRAPH SVP](./images/compass/SIGGRAPH SVP.webp)
+
+Honor to be a part of the 2025 SVP member
+
 ## Shooting Short Films as coursework
 
 ![Shooting Films](./images/compass/WechatIMG1391.webp)
