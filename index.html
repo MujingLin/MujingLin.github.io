@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Mujing Lin — Enter</title>
+  <meta name="description" content="Mujing Lin — Film, AI and storytelling.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/portfolio.css?v=20260729f">
+</head>
+<body class="landing landing-video" data-page="home">
+  <div class="hero-scene" aria-hidden="true">
+    <video class="hero-video" autoplay loop muted playsinline preload="metadata" poster="/backgroundimage/home-cat-video-poster.jpg">
+      <source src="/backgroundimage/home-cat-video-mobile.mp4" type="video/mp4" media="(max-width: 760px)">
+      <source src="/backgroundimage/home-cat-video.mp4" type="video/mp4">
+    </video>
+    <div class="hero-scene-depth"></div>
+  </div>
+
+  <main class="hero-copy">
+    <h1 class="animate-fade-rise">Where stories bloom <em>between feeling and intelligence.</em></h1>
+  </main>
+
+  <button class="page-open-hitarea" type="button" data-open-terminal aria-label="Open Mujing Lin's terminal">
+    <span class="sr-only">Open terminal</span>
+  </button>
+
+  <section class="terminal-overlay" id="terminal-overlay" aria-hidden="true">
+    <button class="terminal-backdrop" type="button" data-close-terminal aria-label="Close terminal"></button>
+    <div class="terminal-dialog" role="dialog" aria-modal="true" aria-labelledby="name">
+      <section class="screen" id="landing-screen" aria-label="Launch portfolio" role="button" tabindex="0">
+        <div class="code-macos">
+          <div class="code-titlebar"><span class="code-dots"><button type="button" data-close-terminal aria-label="Close terminal"></button><i></i><i></i></span><span class="code-filename">mujing — zsh — 80×24</span><span class="code-titlebar-spacer"></span></div>
+          <div class="code-body terminal-session">
+            <div class="terminal-identity"><h1 id="name">MUJING LIN</h1><p>FILM · AI · STORYTELLING</p></div>
+            <p class="typing-container terminal-typing"><span id="typingText" data-typing-en="I make films where human feeling and intelligent tools meet.|I explore new ways to tell stories with AI.|Welcome to my moving-image portfolio."></span><i class="typing-cursor" aria-hidden="true"></i></p>
+            <div class="launch-block"><p class="terminal-output launch-state">READY TO EXPLORE?</p><p class="launch-enter">ENTER</p><div class="launch-progress"><span>[</span><i><b></b></i><span>]</span><strong id="launch-percent">0%</strong></div></div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </section>
+
+  <div class="webgl-transition" id="webgl-transition"></div>
+  <div class="tide-transition" id="tide-transition"></div>
+
+  <script src="/assets/vendor/hover-effect/three.min.js"></script>
+  <script src="/assets/vendor/hover-effect/gsap.min.js"></script>
+  <script src="/assets/vendor/hover-effect/hover-effect.umd.js"></script>
+  <script src="/assets/js/portfolio-data.js?v=20260729f"></script>
+  <script src="/assets/js/portfolio.js?v=20260729f"></script>
+  <script src="/assets/js/analytics.js?v=20260729g" defer></script>
+</body>
+</html>

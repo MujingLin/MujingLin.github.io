@@ -1,0 +1,13 @@
+{
+  "name": "mujinglin-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate:content": "node scripts/validate-content.mjs",
+    "build": "node scripts/build-static.mjs"
+  },
+  "dependencies": {
+    "animejs": "4.5.0",
+    "hover-effect": "1.2.1"
+  }
+}
