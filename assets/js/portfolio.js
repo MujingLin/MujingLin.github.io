@@ -84,7 +84,6 @@
     }
 
     const openTerminal=()=>{
-      if(body.classList.contains("terminal-open"))return;
       body.classList.add("terminal-open");
       overlay.setAttribute("aria-hidden","false");
       startTyping();
@@ -108,6 +107,10 @@
     document.querySelectorAll("[data-open-terminal]").forEach(button=>button.addEventListener("click",openTerminal));
     document.querySelectorAll("[data-close-terminal]").forEach(button=>button.addEventListener("click",closeTerminal));
     terminalScreen.addEventListener("click",launch);
+    if(body.classList.contains("terminal-open")){
+      startTyping();
+      window.setTimeout(()=>terminalScreen.focus(),420);
+    }
     document.addEventListener("keydown",event=>{
       if(event.key==="Escape"){closeTerminal();return}
       if(event.key==="Enter"&&body.classList.contains("terminal-open"))launch();

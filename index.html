@@ -61,7 +61,7 @@
     (()=>{const body=document.body,overlay=document.querySelector("#terminal-overlay"),video=document.querySelector(".hero-video");document.querySelectorAll("[data-open-terminal]").forEach(button=>button.addEventListener("click",()=>{body.classList.add("terminal-open");overlay?.setAttribute("aria-hidden","false")}));if(video){const ready=()=>body.classList.add("video-ready");if(video.readyState>=2)ready();else video.addEventListener("loadeddata",ready,{once:true});video.addEventListener("error",()=>body.classList.add("video-unavailable"),{once:true})}})();
   </script>
   <script src="/assets/js/portfolio-data.js?v=20260730a"></script>
-  <script src="/assets/js/portfolio.js?v=20260730a"></script>
+  <script src="/assets/js/portfolio.js?v=20260730b"></script>
   <script src="/assets/js/analytics.js?v=20260730a" defer></script>
   <script src="/assets/vendor/hover-effect/three.min.js" defer></script>
   <script src="/assets/vendor/hover-effect/gsap.min.js" defer></script>
