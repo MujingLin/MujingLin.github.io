@@ -53,6 +53,7 @@
 
   function startTyping(){
     const el=document.querySelector("#typingText");if(!el)return;
+    window.clearTimeout(window.__landingTypingTimer);
     window.clearTimeout(typingTimer);
     const words=(el.dataset["typing"+(lang==="zh"?"Zh":"En")]||el.dataset[lang]||"").split("|");
     let wordIndex=0,charIndex=0,deleting=false;
