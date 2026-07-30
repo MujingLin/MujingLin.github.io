@@ -17,16 +17,16 @@ window.MUJING_OS = {
    */
   content: {
     profile: {
-      en:"/content/profile.en.md?v=20260729f",
-      zh:"/content/profile.zh.md?v=20260729f"
+      en:"/content/profile.en.md?v=20260730a",
+      zh:"/content/profile.zh.md?v=20260730a"
     },
     works: {
-      en:"/content/works.en.md?v=20260729f",
-      zh:"/content/works.zh.md?v=20260729f"
+      en:"/content/works.en.md?v=20260730a",
+      zh:"/content/works.zh.md?v=20260730a"
     },
     compass: {
-      en:"/content/compass.en.md?v=20260729f",
-      zh:"/content/compass.zh.md?v=20260729f"
+      en:"/content/compass.en.md?v=20260730a",
+      zh:"/content/compass.zh.md?v=20260730a"
     }
   },
 

@@ -72,7 +72,16 @@
     sessionStorage.setItem(LANGUAGE_KEY,"en");
     const overlay=document.querySelector("#terminal-overlay");
     const terminalScreen=document.querySelector("#landing-screen");
+    const heroVideo=document.querySelector(".hero-video");
     let launching=false;
+
+    if(heroVideo){
+      const revealVideo=()=>body.classList.add("video-ready");
+      if(heroVideo.readyState>=2)revealVideo();
+      else heroVideo.addEventListener("loadeddata",revealVideo,{once:true});
+      heroVideo.addEventListener("error",()=>body.classList.add("video-unavailable"),{once:true});
+      heroVideo.play().catch(()=>{});
+    }
 
     const openTerminal=()=>{
       if(body.classList.contains("terminal-open"))return;
@@ -92,7 +101,7 @@
       if(launching)return;launching=true;body.classList.add("loading");
       const percent=document.querySelector("#launch-percent"),state=document.querySelector(".launch-state");state.textContent="LAUNCHING...";
       const started=performance.now(),duration=680;
-      const tick=now=>{const value=Math.min(100,Math.round((now-started)/duration*100));percent.textContent=`${value}%`;if(value<100)requestAnimationFrame(tick);else window.setTimeout(()=>transitionTo("/profile/?v=20260729f"),100)};
+      const tick=now=>{const value=Math.min(100,Math.round((now-started)/duration*100));percent.textContent=`${value}%`;if(value<100)requestAnimationFrame(tick);else window.setTimeout(()=>transitionTo("/profile/?v=20260730a"),100)};
       requestAnimationFrame(tick);
     };
 
@@ -258,7 +267,10 @@
       .replace(/^---[\s\S]*?---\s*/,"")
       .replace(
         /^\[youtube:\s*([^\]\s]+)\s*\]$/gmi,
-        '<iframe src="https://www.youtube.com/embed/$1"></iframe>'
+        (_,rawId)=>{
+          const videoId=rawId.split(/[?&]/)[0];
+          return `<button class="video-cover" type="button" data-youtube="${videoId}" aria-label="Play video on this page"><img src="https://i.ytimg.com/vi/${videoId}/hqdefault.jpg" alt="" loading="lazy"><span class="youtube-play" aria-hidden="true"><b>▶</b><small>YouTube</small></span></button>`;
+        }
       )
       .replace(
         /<!--\s*media:\s*track=(\d+)\s+chapter=([a-z-]+)\s*-->/gi,
@@ -295,24 +307,33 @@
     try{const response=await fetch(source,{cache:"no-store"});const text=await response.text();target.innerHTML=markdown(text);}
     catch(error){target.innerHTML="<p>Content could not be loaded.</p>"}
     structureProfile(target);structureWorks(target);structureCompass(target);
-    target.querySelectorAll("iframe").forEach(frame=>{
-      let fallback=null;
+    const configureFrame=(frame,videoId)=>{
       frame.setAttribute("allowfullscreen","");
       frame.setAttribute("loading","lazy");
       frame.setAttribute("referrerpolicy","strict-origin-when-cross-origin");
       frame.setAttribute("allow","accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share");
       frame.setAttribute("title",frame.previousElementSibling?.textContent||"Mujing Lin film");
-      const match=frame.src.match(/embed\/([^?]+)/);
-      if(match){
-        fallback=document.createElement("p");fallback.className="video-fallback";
-        fallback.innerHTML=`<a href="https://youtu.be/${match[1]}" target="_blank" rel="noopener">${lang==="zh"?"若播放器无法载入，可前往 YouTube 观看 ↗":"Player unavailable? Watch directly on YouTube ↗"}</a>`;
-        frame.insertAdjacentElement("afterend",fallback);
+      if(!videoId){
+        const match=frame.src.match(/embed\/([^?]+)/);
+        videoId=match?.[1];
       }
-      if(page==="works"){
-        const shell=document.createElement("div");shell.className="player-shell";
-        frame.parentNode.insertBefore(shell,frame);shell.appendChild(frame);
-      }
+      return videoId;
+    };
+    target.querySelectorAll("[data-youtube]").forEach(cover=>{
+      const videoId=cover.dataset.youtube;
+      const shell=document.createElement("div");shell.className="player-shell";
+      cover.parentNode.insertBefore(shell,cover);shell.appendChild(cover);
+      const fallback=document.createElement("p");fallback.className="video-fallback";
+      fallback.innerHTML=`<a href="https://youtu.be/${videoId}" target="_blank" rel="noopener">${lang==="zh"?"若播放器无法载入，可前往 YouTube 观看 ↗":"Player unavailable? Watch directly on YouTube ↗"}</a>`;
+      shell.insertAdjacentElement("afterend",fallback);
+      cover.addEventListener("click",()=>{
+        const frame=document.createElement("iframe");
+        frame.src=`https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0`;
+        configureFrame(frame,videoId);
+        cover.replaceWith(frame);
+      },{once:true});
     });
+    target.querySelectorAll("iframe").forEach(frame=>configureFrame(frame));
     requestAnimationFrame(()=>target.classList.remove("changing"));
   }
 
