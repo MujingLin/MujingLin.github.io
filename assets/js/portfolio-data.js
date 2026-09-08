@@ -25,8 +25,8 @@ window.MUJING_OS = {
       zh:"/content/works.zh.md?v=20260730a"
     },
     compass: {
-      en:"/content/compass.en.md?v=20260730a",
-      zh:"/content/compass.zh.md?v=20260730a"
+      en:"/content/compass.en.md?v=20260908a",
+      zh:"/content/compass.zh.md?v=20260908a"
     }
   },
 

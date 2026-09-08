@@ -4,6 +4,11 @@
 
 Photography is how I keep my bearings while life keeps moving. I often carry a mirrorless camera, a film camera, or a Polaroid—not to collect grand landscapes, but to hold on to the light on a film set, the warmth of an encounter, and feelings that were difficult to name at the time. These photographs are less a record of where I have been than a way of locating myself in time.
 
+## August 2026丨86358 JIA VILLAGE Short Film Festival
+
+![86358 JIA VILLAGE Short Film Festival](/images/compass/86358jiajiazhuang.webp)
+Ash Boat has been selected for the AIGC section of the 86358 JIA VILLAGE Short Film Festival.
+
 ## March 2026 HKUST AI FILM HACKATHON
 
 ![HACKATHON1](./images/compass/AIFILMHACK.webp)
